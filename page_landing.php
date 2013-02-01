@@ -6,7 +6,9 @@ Template Name: Landing
 // Add custom body class to the head
 add_filter( 'body_class', 'breakpoint_add_body_class' );
 function breakpoint_add_body_class( $classes ) {
+   
    $classes[] = 'breakpoint-landing';
+   
    return $classes;
 }
 
