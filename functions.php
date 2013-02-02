@@ -26,7 +26,7 @@ add_theme_support( 'genesis-custom-header', array(
 // Custom image sizes
 add_image_size( 'Content Image', 760, 430, TRUE );
 
-// Add Header Wrap 
+// Add header wrapper 
 add_action( 'genesis_before_header',  'breakpoint_header_wrapper_div_open' );
 function breakpoint_header_wrapper_div_open() {
 	
