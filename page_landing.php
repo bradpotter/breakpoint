@@ -15,7 +15,7 @@ function breakpoint_add_body_class( $classes ) {
 // Remove the header right widget area
 unregister_sidebar( 'header-right' );
 
-// Remove header, navigation, breadcrumbs, footer widgets, footer 
+// Remove navigation, breadcrumbs, footer widgets, footer 
 add_filter( 'genesis_pre_get_option_site_layout', '__genesis_return_full_width_content' );
 remove_action( 'genesis_after_header', 'genesis_do_nav' );
 remove_action( 'genesis_after_header', 'genesis_do_subnav' );
