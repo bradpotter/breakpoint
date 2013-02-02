@@ -1,5 +1,5 @@
 BREAKPOINT THEME
-http://www.themecraft.com/
+http://themecraft.com/demo/breakpoint/
 
 INSTALL
 1. Upload the BreakPoint theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
