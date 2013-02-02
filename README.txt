@@ -2,7 +2,7 @@ BREAKPOINT THEME
 http://themecraft.com/demo/breakpoint/
 
 NOTE
-After you download and unarchive the theme from GitHub, rename the folder to breakpoint.
+After you download and unarchive the theme from GitHub, rename the breakpoint-master folder to breakpoint.
 
 INSTALL
 1. Upload the BreakPoint theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
