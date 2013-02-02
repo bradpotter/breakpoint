@@ -10,7 +10,5 @@ INSTALL
 3. Activate the BreakPoint theme.
 4. Inside your WordPress dashboard, go to Genesis > Theme Settings and configure them to your liking.
 
-
-
 SUPPORT
 The BreakPoint theme is offered without support and is intended for users who are knowledgeable with WordPress and the Genesis Framework. 
