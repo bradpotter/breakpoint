@@ -689,55 +689,55 @@ blockquote::before {
 .two-sixths,
 .two-thirds {
 	float: left;
-	margin-left: 3.636363636%; /* 40px / 1100px */
+	margin-left: 3.636363636364%; /* 40px / 1100px */
 }
 
 .one-half,
 .three-sixths,
 .two-fourths {
-	width: 48.181818181%; /* 530px / 1100px */
+	width: 45.454545454545%; /* 500px / 1100px */
 }
 
 .one-third,
 .two-sixths {
-	width: 30.909090909%; /* 340px / 1100px */
+	width: 30.909090909091%; /* 340px / 1100px */
 }
 
 .four-sixths,
 .two-thirds {
-	width: 65.454545454%; /* 720px / 1100px */
+	width: 65.454545454545%; /* 720px / 1100px */
 }
 
 .one-fourth {
-	width: 22.272727272%; /* 245px / 1100px */
+	width: 22.272727272727%; /* 245px / 1100px */
 }
 
 .three-fourths {
-	width: 74.090909090%; /* 815px / 1100px */
+	width: 74.090909090909%; /* 815px / 1100px */
 }
 
 .one-fifth {
-	width: 17.090909090%; /* 188px / 1100px */
+	width: 17.090909090909%; /* 188px / 1100px */
 }
 
 .two-fifths {
-	width: 37.818181818%; /* 416px / 1100px */
+	width: 37.818181818182%; /* 416px / 1100px */
 }
 
 .three-fifths {
-	width: 58.545454545%; /* 644px / 1100px */
+	width: 58.545454545455%; /* 644px / 1100px */
 }
 
 .four-fifths {
-	width: 79.272727272%; /* 872px / 1100px */
+	width: 79.272727272727%; /* 872px / 1100px */
 }
 
 .one-sixth {
-	width: 13.636363636%; /* 150px / 1100px */
+	width: 13.636363636364%; /* 150px / 1100px */
 }
 
 .five-sixths {
-	width: 82.727272727%; /* 910px / 1100px */
+	width: 82.727272727273%; /* 910px / 1100px */
 }
 
 .first {
